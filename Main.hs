@@ -1,4 +1,5 @@
 {-# LANGUAGE OverloadedStrings, Arrows, NoMonomorphismRestriction #-}
+Module Main where
 import Text.XML.HXT.Core
 import System.IO
 import Control.Exception
